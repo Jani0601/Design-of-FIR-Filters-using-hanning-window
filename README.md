@@ -49,5 +49,7 @@ title("Frequency Response of FIR LPF using Hanning Window (in dB)");
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/fbd43be7-a834-404a-9541-ff05318aacfe" />
 
 
+
+
 # RESULT
 Thus , generate design of low pass FIR digital filter using SCILAB are verified.
